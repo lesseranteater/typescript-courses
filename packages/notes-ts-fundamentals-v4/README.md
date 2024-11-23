@@ -14,3 +14,7 @@ yarn
 ```
 yarn tsc
 ```
+## Install ts-node globally to be able to run ts files with the VS Code Code Runner extension
+```
+npm install -g ts-node
+```
